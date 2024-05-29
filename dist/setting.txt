@@ -1,0 +1,2 @@
+sampling frequency:10
+number of sample per segment:2056
